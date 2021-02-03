@@ -6,7 +6,6 @@ title: Book Recommendations
 ### The one rational book in all the world: Harry Potter and the Methods of Rationality [[HPMOR]] by [[Yudkowsky]] Yudkowsky
 
 ### A man struck out on the highway in search of the true quality of things: [[Zen and the Art of Motorcycle Maintenance]]
-
 ### Today's systems of capitalism and democracy aren't engineered to efficiently satisfy people's preferences. Systems of interaction optimized by game theory, or [[Radical Markets]], can dramatically improve freedom and welfare
 
 ### Openness-increasing science fiction that has a huge impact on my universe. If  anything is truly beyond your imagination, it is [[Three Body Problem]], 1/3 of [[Remembrance of Earth's Past]]
